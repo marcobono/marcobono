@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @marcobono 
-- 👀 I’m interested in leraning Web3
-- 🌱 I’m currently learning Web3, Solidity and smart contracts development + deployment on the Ethereum network
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @marcobono a frontend dev
+- 👀 I’m interested in learning all tech stacks and tools for frontend 
+- 🌱 I’m currently learning Haskell, for functional programming and to use Plutus on the Cardano blockchain
+- 💞️ I’m looking to collaborate on any FE project that needs integration with Cardano
 
 <!---
 marcobono/marcobono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
